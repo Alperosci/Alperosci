@@ -1,16 +1,24 @@
-## Hi there 👋
+```
+                                                       
+ █████╗ ██╗     ██████╗ ██╗  ██╗ █████╗ 
+██╔══██╗██║     ██╔══██╗██║  ██║██╔══██╗
+███████║██║     ██████╔╝███████║███████║
+██╔══██║██║     ██╔═══╝ ██╔══██║██╔══██║
+██║  ██║███████╗██║     ██║  ██║██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝
+                                        
+```
 
-<!--
-**ALPha-web-dev/ALPha-web-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm ALPha! 👋
 
-Here are some ideas to get you started:
+🎓 **Student**  
+🐍 **Python Enthusiast**  
+💻 **Web Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 About Me
+
+- Passionate about learning and building with Python.
+- I love automating tasks and exploring new programming ideas.
+- Always eager to take on new coding challenges!

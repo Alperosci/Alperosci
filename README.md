@@ -12,13 +12,13 @@
 # Hi, I'm Alperosci! 👋
 
 🎓 **Student**  
-🐍 **Python Enthusiast**  
+🌐 **Golang Enthusiast**  
 💻 **Web Developer**
 
 ---
 
 ## 🌱 About Me
 
-- Passionate about learning and building with Python.
+- Passionate about learning and building with GO.
 - I love automating tasks and exploring new programming ideas.
 - Always eager to take on new coding challenges!

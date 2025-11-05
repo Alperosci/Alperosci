@@ -34,4 +34,4 @@
 
 ### 📫 Contact
 - 💬 Feel free to [open an issue](https://github.com/alperosci/alperosci/issues) if you want to reach out  
-- 🌍 Check out my projects: [github.com/alperosci](https://github.com/alperosci)
+- 🌍 Check out my projects: [repositories]([https://github.com/alperosci](https://github.com/Alperosci?tab=repositories))

@@ -11,7 +11,7 @@
 
 ### ⚡ About Me
 - 🧩 Currently building my own fantasy console  
-- 💡 I love exploring low-level systems using **C**, **Zig**, and **C++**  
+- 💡 I love exploring low-level systems using **C**, **Zig**, and **Rust**  
 - 🏗️ On the web side, I work with **Node.js** and **Express**  
 
 ---

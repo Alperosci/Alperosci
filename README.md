@@ -18,11 +18,9 @@
 
 ### 📈 GitHub Stats
 
-[![Alperosci's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperosci)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alperosci&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperosci&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alperosci&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alperosci&layout=compact" />
 </p>
 
 ---

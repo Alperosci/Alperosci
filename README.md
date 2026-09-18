@@ -3,4 +3,4 @@
 Why cant we just go back?
 </p>
 
-[![Alperosci's GitHub stats](https://github-stats-extended.vercel.app/api?username=Alperosci)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Alperosci&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=Alperosci&show_icons=true&include_all_commits=true&theme=tokyonight)
